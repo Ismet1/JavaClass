@@ -8,10 +8,10 @@ public class Task3 {
 		 
 		
 	        Task3 a=new Task3();
-	        a.palindrome("woow");
+	        a.palindrome("woow"); //argument
 	    	}
 	
-			void palindrome(String text) {
+			void palindrome(String text) { //parameter
 				
 	        String reverse="";
 	        for(int i=text.length()-1;i>=0;i--) {
