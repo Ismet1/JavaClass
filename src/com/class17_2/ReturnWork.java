@@ -7,11 +7,11 @@ public class ReturnWork {
 		 public static void main(String[] args) {
 		        ReturnWork obj=new ReturnWork();
 		        String name="ismet";
-		        obj.example();
-		        obj.example2(name);
-		        obj.example3();
+		        //obj.example();
+		        //obj.example2(name);
+		        //obj.example3();
 		        obj.example4(name);
-		        obj.example5(name);
+		        //obj.example5(name);
 		        //System.out.println(obj.example6());//char oldugu icin sysout'in icindekinden sonra degerin sayisal karsiliginida cikariyor.
 		    }
 
@@ -53,14 +53,4 @@ public class ReturnWork {
 		        
 		        return name;
 		    }
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-
 		}
