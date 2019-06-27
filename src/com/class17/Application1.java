@@ -1,6 +1,6 @@
 package com.class17;
 
-import com.class17_2.ScannerMethod;//Scannermethod class'ini buraya yazip, eslestirnce direk olarak cikiyor bu.
+import com.class18.ScannerMethod;
 
 public class Application1 { 
 

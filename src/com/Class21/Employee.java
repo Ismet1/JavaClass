@@ -24,3 +24,5 @@ public class Employee {
 		System.out.println(eID+" "+salary+" "+CEO);
 	}
 }
+
+

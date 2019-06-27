@@ -1,5 +1,5 @@
 package com.Class21;
-
+/*
 import com.class20.AccessModifiers;
 
 public class TestAccessModifiers {
@@ -10,3 +10,4 @@ public class TestAccessModifiers {
 		System.out.println(obj.name3);////accessing public variable in different packag
 	}
 }
+*/
